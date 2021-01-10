@@ -11633,7 +11633,8 @@
 {"destination_id":"56","destination_name":"Tarnów, Matki Bożej Fatimskiej - Krzyska","destination_shortcut":"L","desctiption":"Tarnów, Matki Bożej Fatimskiej - Krzyska","destination_bus_line_id":"11","last_bus_stop_number":"478"},
 {"destination_id":"57","destination_name":"Lisia Góra p.Kolonia","destination_shortcut":"L","desctiption":"Lisia Góra p.Kolonia","destination_bus_line_id":"11","last_bus_stop_number":"733"},
 {"destination_id":"58","destination_name":"Sikorskiego p. Kolonia","destination_shortcut":"Q","desctiption":"Sikorskiego p. Kolonia","destination_bus_line_id":"11","last_bus_stop_number":"511"},
-{"destination_id":"59","destination_name":"Kochanowskiego-Chyszowska p. Kolonia","destination_shortcut":"T","desctiption":"Kochanowskiego-Chyszowska p. Kolonia","destination_bus_line_id":"11","last_bus_stop_number":"1270"}
+{"destination_id":"59","destination_name":"Kochanowskiego-Chyszowska p. Kolonia","destination_shortcut":"T","desctiption":"Kochanowskiego-Chyszowska p. Kolonia","destination_bus_line_id":"11","last_bus_stop_number":"1270"},
+{"destination_id":"60","destination_name":"Wola Ostrębowska p. Zgłobice > Marszałka","destination_shortcut":"-","desctiption":"Marszałka > Zgłobice > Krakowska","destination_bus_line_id":"7","last_bus_stop_number":"176"}
 ]
 }
 ,{"type":"table","name":"Track","database":"tarbus3","data":
