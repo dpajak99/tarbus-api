@@ -306,7 +306,7 @@
 {"bus_stop_number":"1048","bus_stop_name":"Rzuchowa – SKR 02","bus_stop_search_name":"rzuchowa–skr02","bus_stop_type":"Gminna","is_city":"0"},
 {"bus_stop_number":"1049","bus_stop_name":"Rzuchowa – SKR 37","bus_stop_search_name":"rzuchowa–skr37","bus_stop_type":"Gminna","is_city":"0"},
 {"bus_stop_number":"1050","bus_stop_name":"Rzuchowa – Centrum 18","bus_stop_search_name":"rzuchowa–centrum18","bus_stop_type":"Gminna","is_city":"0"},
-{"bus_stop_number":"1051","bus_stop_name":"Rzuchowa – Granica 35","bus_stop_search_name":"rzuchowa–granica35","bus_stop_type":"Gminna","is_city":"0"},
+{"bus_stop_number":"1051","bus_stop_name":"Rzuchowa – Centrum 35","bus_stop_search_name":"rzuchowa–centrum35","bus_stop_type":"Gminna","is_city":"0"},
 {"bus_stop_number":"1052","bus_stop_name":"Rzuchowa - Kłokowa 16","bus_stop_search_name":"rzuchowa-klokowa16","bus_stop_type":"Gminna","is_city":"0"},
 {"bus_stop_number":"1053","bus_stop_name":"Rzuchowa - Kłokowa 37","bus_stop_search_name":"rzuchowa-klokowa37","bus_stop_type":"Gminna","is_city":"0"},
 {"bus_stop_number":"1055","bus_stop_name":"Koszyce Małe - ul. Główna - Skalna 39","bus_stop_search_name":"koszycemale-ul.glowna-skalna39","bus_stop_type":"Gminna","is_city":"0"},
@@ -11636,7 +11636,7 @@
 {"destination_id":"37","destination_name":"Tarnów, Kochanowskiego - Chyszowska","destination_shortcut":"K","desctiption":"Tarnów, Kochanowskiego - Chyszowska","description_long":null,"destination_bus_line_id":"6","last_bus_stop_number":"1270"},
 {"destination_id":"38","destination_name":"Wola Ostrębowska p. Zgłobice > Krakowska","destination_shortcut":"P","desctiption":"Marszałka > Zgłobice > Krakowska","description_long":null,"destination_bus_line_id":"7","last_bus_stop_number":"404"},
 {"destination_id":"39","destination_name":"Wola Ostrębowska p. Zgłobice > Marszałka","destination_shortcut":"-","desctiption":"Marszałka > Zgłobice > Marszałka","description_long":null,"destination_bus_line_id":"7","last_bus_stop_number":"176"},
-{"destination_id":"40","destination_name":"Rychwałd","destination_shortcut":"-","desctiption":"Rychwałd","description_long":null,"destination_bus_line_id":"8","last_bus_stop_number":"1001"},
+{"destination_id":"40","destination_name":"Rychwałd","destination_shortcut":"-","desctiption":"Marszałka, Rychwałd","description_long":null,"destination_bus_line_id":"8","last_bus_stop_number":"1001"},
 {"destination_id":"41","destination_name":"Tarnów, Marszałka","destination_shortcut":"-","desctiption":"","description_long":null,"destination_bus_line_id":"8","last_bus_stop_number":"176"},
 {"destination_id":"42","destination_name":"Tarnów, Mościce - Plac","destination_shortcut":"-","desctiption":"Tarnów, Mościce - Plac","description_long":null,"destination_bus_line_id":"9","last_bus_stop_number":"865"},
 {"destination_id":"43","destination_name":"Zbylitowska Góra - Szkoła","destination_shortcut":"X","desctiption":"Zbylitowska Góra - Szkoła","description_long":null,"destination_bus_line_id":"9","last_bus_stop_number":"1161"},
@@ -11666,7 +11666,8 @@
 {"destination_id":"68","destination_name":"Jodłówka p.Rozwojowa, p.Szpic","destination_shortcut":"F","desctiption":"Kochanowskiego, Rozwojowa, Szpic, Jodłówka","description_long":null,"destination_bus_line_id":"1","last_bus_stop_number":"369"},
 {"destination_id":"69","destination_name":"Jodłówka p.Polmark, p.Górówka","destination_shortcut":"J","desctiption":"Kochanowskiego, Polmark, Górówka, Jodłówka","description_long":"J- Kurs przez Polmark, Górówkę Zachodnią","destination_bus_line_id":"1","last_bus_stop_number":"369"},
 {"destination_id":"70","destination_name":"Błonie obok Zajazdu","destination_shortcut":"Z","desctiption":"Błonie obok Zajazdu","description_long":null,"destination_bus_line_id":"10","last_bus_stop_number":"798"},
-{"destination_id":"71","destination_name":"Błonie p. Zb. Górę","destination_shortcut":"G","desctiption":"Błonie p. Zb. Górę","description_long":"Błonie p. Zb. Górę","destination_bus_line_id":"10","last_bus_stop_number":"798"}
+{"destination_id":"71","destination_name":"Błonie p. Zb. Górę","destination_shortcut":"G","desctiption":"Błonie p. Zb. Górę","description_long":"Błonie p. Zb. Górę","destination_bus_line_id":"10","last_bus_stop_number":"798"},
+{"destination_id":"72","destination_name":"Rychwałd","destination_shortcut":"-","desctiption":"Krakowska, Rychwałd","description_long":"","destination_bus_line_id":"8","last_bus_stop_number":"1103"}
 ]
 }
 ,{"type":"table","name":"IgnoredDestinations","database":"tarbus3","data":
@@ -11677,7 +11678,8 @@
 {"ignored_destination_id":"62","parent_destination_id":"69"},
 {"ignored_destination_id":"13","parent_destination_id":"11"},
 {"ignored_destination_id":"14","parent_destination_id":"11"},
-{"ignored_destination_id":"2","parent_destination_id":"68"}
+{"ignored_destination_id":"2","parent_destination_id":"68"},
+{"ignored_destination_id":"72","parent_destination_id":"40"}
 ]
 }
 ,{"type":"table","name":"Track","database":"tarbus3","data":
@@ -12097,7 +12099,7 @@
 {"track_id":"7-7","track_types":"D","day_type":"1","destination_status":"1","track_destination_id":"39"},
 {"track_id":"7-8","track_types":"D","day_type":"1","destination_status":"1","track_destination_id":"39"},
 {"track_id":"7-9","track_types":"D","day_type":"1","destination_status":"1","track_destination_id":"39"},
-{"track_id":"8-1","track_types":"D","day_type":"1","destination_status":"1","track_destination_id":"40"},
+{"track_id":"8-1","track_types":"D","day_type":"1","destination_status":"1","track_destination_id":"72"},
 {"track_id":"8-10","track_types":"D","day_type":"1","destination_status":"0","track_destination_id":"41"},
 {"track_id":"8-11","track_types":"D","day_type":"1","destination_status":"0","track_destination_id":"41"},
 {"track_id":"8-12","track_types":"D","day_type":"1","destination_status":"0","track_destination_id":"41"},
