@@ -11637,7 +11637,7 @@
 {"destination_id":"38","destination_name":"Wola Ostrębowska p. Zgłobice > Krakowska","destination_shortcut":"P","desctiption":"Marszałka > Zgłobice > Krakowska","description_long":null,"destination_bus_line_id":"7","last_bus_stop_number":"404"},
 {"destination_id":"39","destination_name":"Wola Ostrębowska p. Zgłobice > Marszałka","destination_shortcut":"-","desctiption":"Marszałka > Zgłobice > Marszałka","description_long":null,"destination_bus_line_id":"7","last_bus_stop_number":"176"},
 {"destination_id":"40","destination_name":"Rychwałd","destination_shortcut":"-","desctiption":"Marszałka, Rychwałd","description_long":null,"destination_bus_line_id":"8","last_bus_stop_number":"1001"},
-{"destination_id":"41","destination_name":"Tarnów, Marszałka","destination_shortcut":"-","desctiption":"","description_long":null,"destination_bus_line_id":"8","last_bus_stop_number":"176"},
+{"destination_id":"41","destination_name":"Tarnów, Marszałka","destination_shortcut":"-","desctiption":"","description_long":"Rychwałd, Marszałka","destination_bus_line_id":"8","last_bus_stop_number":"176"},
 {"destination_id":"42","destination_name":"Tarnów, Mościce - Plac","destination_shortcut":"-","desctiption":"Tarnów, Mościce - Plac","description_long":null,"destination_bus_line_id":"9","last_bus_stop_number":"865"},
 {"destination_id":"43","destination_name":"Zbylitowska Góra - Szkoła","destination_shortcut":"X","desctiption":"Zbylitowska Góra - Szkoła","description_long":null,"destination_bus_line_id":"9","last_bus_stop_number":"1161"},
 {"destination_id":"44","destination_name":"Tarnów, Krakowska - Planty","destination_shortcut":"X","desctiption":"Tarnów, Krakowska - Planty","description_long":null,"destination_bus_line_id":"9","last_bus_stop_number":"404"},
