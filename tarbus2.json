@@ -11674,27 +11674,29 @@
 {"destination_id":"74","destination_name":"Świebodzin - Kłokowa PKP","destination_shortcut":"-","desctiption":"Krakowska, Świebodzin","description_long":null,"destination_bus_line_id":"5","last_bus_stop_number":"679"},
 {"destination_id":"75","destination_name":"Zawada - Pętla","destination_shortcut":"-","desctiption":"Tuchowska, Zawada","description_long":null,"destination_bus_line_id":"6","last_bus_stop_number":"783"},
 {"destination_id":"76","destination_name":"Zawada - Pętla","destination_shortcut":"-","desctiption":"Krakowska, Zawada","description_long":null,"destination_bus_line_id":"6","last_bus_stop_number":"783"},
-{"destination_id":"77","destination_name":"Łękawka","destination_shortcut":"-","desctiption":"Kochanowskiego, Łękawka","description_long":null,"destination_bus_line_id":"3","last_bus_stop_number":"760"}
+{"destination_id":"77","destination_name":"Łękawka","destination_shortcut":"-","desctiption":"Kochanowskiego, Łękawka","description_long":null,"destination_bus_line_id":"3","last_bus_stop_number":"760"},
+{"destination_id":"78","destination_name":"Świebodzin - Kłokowa p.Zawada","destination_shortcut":"X","desctiption":"Kochanowskiego,Zawada,Świebodzin","description_long":null,"destination_bus_line_id":"5","last_bus_stop_number":"679"}
 ]
 }
 ,{"type":"table","name":"IgnoredDestinations","database":"tarbus2","data":
 [
-{"ignored_destination_id":"63","parent_destination_id":"64"},
 {"ignored_destination_id":"1","parent_destination_id":"64"},
+{"ignored_destination_id":"2","parent_destination_id":"68"},
 {"ignored_destination_id":"4","parent_destination_id":"69"},
-{"ignored_destination_id":"62","parent_destination_id":"69"},
 {"ignored_destination_id":"13","parent_destination_id":"11"},
 {"ignored_destination_id":"14","parent_destination_id":"11"},
-{"ignored_destination_id":"2","parent_destination_id":"68"},
-{"ignored_destination_id":"72","parent_destination_id":"40"},
-{"ignored_destination_id":"74","parent_destination_id":"30"},
-{"ignored_destination_id":"73","parent_destination_id":"30"},
-{"ignored_destination_id":"76","parent_destination_id":"35"},
-{"ignored_destination_id":"75","parent_destination_id":"35"},
-{"ignored_destination_id":"25","parent_destination_id":"77"},
-{"ignored_destination_id":"24","parent_destination_id":"77"},
+{"ignored_destination_id":"22","parent_destination_id":"77"},
 {"ignored_destination_id":"23","parent_destination_id":"77"},
-{"ignored_destination_id":"22","parent_destination_id":"77"}
+{"ignored_destination_id":"24","parent_destination_id":"77"},
+{"ignored_destination_id":"25","parent_destination_id":"77"},
+{"ignored_destination_id":"30","parent_destination_id":"78"},
+{"ignored_destination_id":"62","parent_destination_id":"69"},
+{"ignored_destination_id":"63","parent_destination_id":"64"},
+{"ignored_destination_id":"72","parent_destination_id":"40"},
+{"ignored_destination_id":"73","parent_destination_id":"78"},
+{"ignored_destination_id":"74","parent_destination_id":"78"},
+{"ignored_destination_id":"75","parent_destination_id":"35"},
+{"ignored_destination_id":"76","parent_destination_id":"35"}
 ]
 }
 ,{"type":"table","name":"Track","database":"tarbus2","data":
