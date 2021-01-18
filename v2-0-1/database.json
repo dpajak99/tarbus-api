@@ -3736,11 +3736,6 @@
 {"ds_id":"23","ds_route_id":"2","ds_symbol":"-","ds_direction_board_name":"Sikorskiego","ds_shedule_name":"-"}
 ]
 }
-,{"type":"table","name":"LastUpdated","database":"tarbus3","data":
-[
-
-]
-}
 ,{"type":"table","name":"RoadType","database":"tarbus3","data":
 [
 {"rt_id":"1","rt_name":"Gminna"},
