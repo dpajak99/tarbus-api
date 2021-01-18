@@ -1,5 +1,5 @@
 {
-"id":0,
+"id":1,
 "title":"Dostępna aktualizacja",
 "image_href":"https://raw.githubusercontent.com/dpajak99/tarbus-api/master/v2-0-1/alert_image.png",
 "content":"Dostępna jest nowa wersja aplikacji. \\\n * Poprawiliśmy błędy związane z rozkładem jazdy \\\n * Zoptymalizowaliśmy wydajność aplikacji \\\n\\\n **Jeżeli aktualizacja się nie wyświetla, należy odinstalować i zainstalować aplikację ponownie**",
