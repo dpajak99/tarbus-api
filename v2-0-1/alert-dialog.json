@@ -1,7 +1,7 @@
 {
 "id":1,
 "title":"Co nowego?",
-"image_href":"https://dpajak99.github.io/tarbus-api/v2-0-1/alert-image.png",
+"image_href":"https://github.com/dpajak99/tarbus-api/blob/master/v2-0-1/alert_image.png",
 "content":"Hello World",
 "button_link_href":"https://github.com/dpajak99/tarbus-api/blob/master/v2-0-1/alert_image.png",
 "button_link_content":"Oceń nas!",
