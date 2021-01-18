@@ -2,7 +2,7 @@
 "id":1,
 "title":"Co nowego?",
 "image_href":"https://raw.githubusercontent.com/dpajak99/tarbus-api/master/v2-0-1/alert_image.png",
-"content":"**Test markdowna** \n Test \n #Test# \n - test \n -test2",
+"content":"**Test markdowna** \\\n Test \\\n #Test# - test -test2",
 "button_link_href":"https://raw.githubusercontent.com/dpajak99/tarbus-api/master/v2-0-1/alert_image.png",
 "button_link_content":"Oceń nas!",
 "has_button_link":1,
