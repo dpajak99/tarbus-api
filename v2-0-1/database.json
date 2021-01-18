@@ -3722,7 +3722,7 @@
 {"ds_id":"8","ds_route_id":"2","ds_symbol":"M","ds_direction_board_name":"Kochanowskiego-Chyszowska","ds_shedule_name":"M - kurs wydłużony do przystanku Kochanowskiego - Chyszowska"},
 {"ds_id":"9","ds_route_id":"2","ds_symbol":"Z","ds_direction_board_name":"Orkana-Szkoła","ds_shedule_name":"Z - kurs do przystanku Orkana - Szkoła"},
 {"ds_id":"10","ds_route_id":"2","ds_symbol":"K","ds_direction_board_name":"Sikorskiego p.Górówka","ds_shedule_name":"K - kurs wykonany przez Wałki Górówkę"},
-{"ds_id":"11","ds_route_id":"0","ds_symbol":"S","ds_direction_board_name":"-","ds_shedule_name":"S - kursuje w dni nauki szkolnej"},
+{"ds_id":"11","ds_route_id":"1","ds_symbol":"S","ds_direction_board_name":"Jodłówka-Wałki","ds_shedule_name":"S - kursuje w dni nauki szkolnej"},
 {"ds_id":"13","ds_route_id":"1","ds_symbol":"WJ","ds_direction_board_name":"Jodłówka p.Polmark p.Górówka","ds_shedule_name":"WJ - kurs na Jodłówkę przez Polmark i Górówkę"},
 {"ds_id":"14","ds_route_id":"1","ds_symbol":"GS","ds_direction_board_name":"Górówka-Zachodnia","ds_shedule_name":"GS- kurs na Górówkę - tylko w dni szkolne"},
 {"ds_id":"15","ds_route_id":"1","ds_symbol":"HP","ds_direction_board_name":"Jodłówka p.SAG p.Szpic","ds_shedule_name":"HP - kurs na Jodłówkę przez SAG i przez Szpic"},
