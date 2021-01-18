@@ -1,11 +1,11 @@
 {
-"id":1,
-"title":"Co nowego?",
+"id":0,
+"title":"Dostępna aktualizacja",
 "image_href":"https://raw.githubusercontent.com/dpajak99/tarbus-api/master/v2-0-1/alert_image.png",
-"content":"**Test markdowna** \\\n Test \\\n #Test# - test -test2",
-"button_link_href":"https://raw.githubusercontent.com/dpajak99/tarbus-api/master/v2-0-1/alert_image.png",
-"button_link_content":"Oceń nas!",
+"content":"Dostępna jest nowa wersja aplikacji. \\\n * Poprawiliśmy błędy związane z rozkładem jazdy \\\n * Zoptymalizowaliśmy wydajność aplikacji \\\n\\\n **Jeżeli aktualizacja się nie wyświetla, należy odinstalować i zainstalować aplikację ponownie**",
+"button_link_href":"https://play.google.com/store/apps/details?id=com.dpajak99.tarbus2021",
+"button_link_content":"Pobierz aktualizację",
 "has_button_link":1,
-"has_button_close":1,
+"has_button_close":0,
 "has_button_remind_me_later":1
 }
