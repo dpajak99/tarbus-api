@@ -4170,7 +4170,7 @@
 {"ds_id":"13","ds_route_id":"1","ds_symbol":"WJ","ds_direction_board_name":"Jodłówka p.Polmark p.Górówka","ds_shedule_name":"WJ - kurs na Jodłówkę przez Polmark i Górówkę"},
 {"ds_id":"14","ds_route_id":"1","ds_symbol":"GS","ds_direction_board_name":"Górówka-Zachodnia","ds_shedule_name":"GS- kurs na Górówkę - tylko w dni szkolne"},
 {"ds_id":"15","ds_route_id":"1","ds_symbol":"HP","ds_direction_board_name":"Jodłówka p.SAG p.Szpic","ds_shedule_name":"HP - kurs na Jodłówkę przez SAG i przez Szpic"},
-{"ds_id":"16","ds_route_id":"2","ds_symbol":"KW","ds_direction_board_name":"Sikorskiego p.Górówka, p.Polmark","ds_shedule_name":"KW - kurs na Jodłówkę przez Polmark, przez Górówkę"},
+{"ds_id":"16","ds_route_id":"2","ds_symbol":"KW","ds_direction_board_name":"Sikorskiego p.Górówka, p.Polmark","ds_shedule_name":"KW - kurs na Kochanowskiego-Chyszowska przez Polmark"},
 {"ds_id":"17","ds_route_id":"2","ds_symbol":"WM","ds_direction_board_name":"Kochanowskiego p.Polmark","ds_shedule_name":"WM - kurs na Kochanowskiego-Chyszowska przez Polmark"},
 {"ds_id":"18","ds_route_id":"2","ds_symbol":"KWM","ds_direction_board_name":"Kochanowskiego p.Górówka, p.Polmark","ds_shedule_name":"KWM - kurs na Kochanowskiego-Chyszowska przez Górówkę i przez Polmark"},
 {"ds_id":"19","ds_route_id":"2","ds_symbol":"PX","ds_direction_board_name":"SAG p.Szpic","ds_shedule_name":"PX - kurs na SAG przez Szpic"},
@@ -4180,7 +4180,7 @@
 {"ds_id":"23","ds_route_id":"2","ds_symbol":"-","ds_direction_board_name":"Sikorskiego","ds_shedule_name":"-"},
 {"ds_id":"24","ds_route_id":"2","ds_symbol":"W","ds_direction_board_name":"Jodłówka-Wałki p.Polmark","ds_shedule_name":"W - kurs wykonany przez Wola Rzędzińska południowa strona torów"},
 {"ds_id":"25","ds_route_id":"1","ds_symbol":"P","ds_direction_board_name":"Jodłówka Wałki p.Szpic","ds_shedule_name":"P - kurs wykonywany przez Szpic"},
-{"ds_id":"26","ds_route_id":"2","ds_symbol":"P","ds_direction_board_name":"","ds_shedule_name":"P - kurs wykonywany przez Szpic"},
+{"ds_id":"26","ds_route_id":"2","ds_symbol":"P","ds_direction_board_name":"Sikorskiego p.Szpic","ds_shedule_name":"P - kurs wykonywany przez Szpic"},
 {"ds_id":"27","ds_route_id":"2","ds_symbol":"S","ds_direction_board_name":"Sikorskiego","ds_shedule_name":"S - Kurs wykonywany w dni nauki szkolnej"}
 ]
 }
