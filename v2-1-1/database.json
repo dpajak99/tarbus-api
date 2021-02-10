@@ -11998,7 +11998,7 @@
 {"ds_id":"78","ds_route_id":"20","ds_symbol":"M","ds_direction_board_name":"Kochanowskiego Chyszowska","ds_shedule_name":"M - kurs wydłużony do przystanku Kochanowskiego Chyszowska"},
 {"ds_id":"79","ds_route_id":"20","ds_symbol":"B","ds_direction_board_name":"Fatimskiej","ds_shedule_name":"B - kurs skrócony do przystanku Matki Bożej Fatimskiej"},
 {"ds_id":"80","ds_route_id":"20","ds_symbol":"MF","ds_direction_board_name":"Kochanowskiego p.Kolonia","ds_shedule_name":"MF - kurs do Kochanowskiego Chyszowska p. Kolonię "},
-{"ds_id":"81","ds_route_id":"20","ds_symbol":"EŁ","ds_direction_board_name":"Łukowa p.Kolonię","ds_shedule_name":"EŁ - kurs wydłużony do Łukowej, wykonywany przez Kolonię"}
+{"ds_id":"81","ds_route_id":"19","ds_symbol":"EŁ","ds_direction_board_name":"Łukowa p.Kolonię","ds_shedule_name":"EŁ - kurs wydłużony do Łukowej, wykonywany przez Kolonię"}
 ]
 }
 ,{"type":"table","name":"FavouriteBusLine","database":"tarbus-server","data":
