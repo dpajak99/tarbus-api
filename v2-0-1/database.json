@@ -11594,7 +11594,7 @@
 }
 ,{"type":"table","name":"Destinations","database":"tarbus-server","data":
 [
-{"ds_id":"1","ds_route_id":"2","ds_symbol":"SP","ds_direction_board_name":"Jodłówka-Wałki p.Szpic","ds_shedule_name":"SP - kurs wykonywany przez Wałki Szpic (w dni nauki szkolnej)"},
+{"ds_id":"1","ds_route_id":"2","ds_symbol":"SP","ds_direction_board_name":"Sikorskiego p.Szpic","ds_shedule_name":"SP - kurs wykonywany przez Wałki Szpic (w dni nauki szkolnej)"},
 {"ds_id":"2","ds_route_id":"1","ds_symbol":"W","ds_direction_board_name":"Jodłówka-Wałki p.Polmark","ds_shedule_name":"W - kurs wykonany przez Wola Rzędzińska południowa strona torów"},
 {"ds_id":"3","ds_route_id":"1","ds_symbol":"x","ds_direction_board_name":"Górówka p. Jodłówkę","ds_shedule_name":"x - kurs do Górówki przez Jodłówkę"},
 {"ds_id":"4","ds_route_id":"1","ds_symbol":"J","ds_direction_board_name":"Jodłówka p. Górówkę","ds_shedule_name":"J - kurs do Wałek Jodłówki przez Wałki Górówkę"},
