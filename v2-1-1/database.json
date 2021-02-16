@@ -11941,7 +11941,7 @@
 {"ds_id":"21","ds_route_id":"2","ds_symbol":"PZ","ds_direction_board_name":"Orkana-Szkoła p.Szpic","ds_shedule_name":"PZ - kurs do Orkana-Szkoła przez Szpic"},
 {"ds_id":"22","ds_route_id":"1","ds_symbol":"-","ds_direction_board_name":"Jodłówka-Wałki","ds_shedule_name":"-"},
 {"ds_id":"23","ds_route_id":"2","ds_symbol":"-","ds_direction_board_name":"Sikorskiego","ds_shedule_name":"-"},
-{"ds_id":"24","ds_route_id":"2","ds_symbol":"W","ds_direction_board_name":"Jodłówka-Wałki p.Polmark","ds_shedule_name":"W - kurs wykonany przez Wola Rzędzińska południowa strona torów"},
+{"ds_id":"24","ds_route_id":"2","ds_symbol":"W","ds_direction_board_name":"Sikorskiego p.Polmark","ds_shedule_name":"W - kurs wykonany przez Wola Rzędzińska południowa strona torów"},
 {"ds_id":"25","ds_route_id":"1","ds_symbol":"P","ds_direction_board_name":"Jodłówka Wałki p.Szpic","ds_shedule_name":"P - kurs wykonywany przez Szpic"},
 {"ds_id":"26","ds_route_id":"2","ds_symbol":"P","ds_direction_board_name":"Sikorskiego p.Szpic","ds_shedule_name":"P - kurs wykonywany przez Szpic"},
 {"ds_id":"27","ds_route_id":"2","ds_symbol":"S","ds_direction_board_name":"Sikorskiego","ds_shedule_name":"S - Kurs wykonywany w dni nauki szkolnej"},
